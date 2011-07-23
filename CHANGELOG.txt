@@ -1,5 +1,3 @@
-
-
 4.3.0.0
 Bug fixes. Updates to PayPal, AdMob, Adsense, and In App billing.
 
